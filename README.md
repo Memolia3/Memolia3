@@ -1,16 +1,30 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Memolia3&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" alt="Memolia3's GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memolia3&layout=compact&theme=tokyonight" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
-<!--
-**Memolia3/Memolia3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Languages**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,php,typescript,javascript,html,css&perline=10" />
+</a>
 
-Here are some ideas to get you started:
+# **Frameworks**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=django,spring,laravel,vue,nuxt,scss&perline=10" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **DB**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=10" />
+</a>
+
+# **Tools**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nodejs,npm,vite,postman,vscode,eclipse,pycharm&perline=10" />
+</a>
